@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="wVwG9aveRzbnMOL9w2D5TbwOVYFozw5U6Cvq5Zy1LZk" />
+
 # Pavithra Vijayakrishnan
 
 MS Computer Science graduate in Machine learning and data science with three years of Software engineering experience. <br>
