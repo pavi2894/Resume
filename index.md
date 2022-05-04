@@ -66,7 +66,7 @@ Audio, video and text content filtering were implemented.<br>
 
 ## 👩🏼‍💻 Technical Experience
 
-**Software Engineer** @ [F-Secure](https://www.f-secure.com/en) _(Oct 2018 - Jun 2019)_ <br>
+**Software Engineer** [F-Secure](https://www.f-secure.com/en) _(Oct 2018 - Jun 2019)_ <br>
 Full stack software engineer in the core IAM team responsible for front end and back end development with added responsibility of testing, deployment and support. <br>
   
 • Full stack developer position- end to end development, testing, deployment and support activities.<br>
@@ -77,7 +77,7 @@ Full stack software engineer in the core IAM team responsible for front end and 
 <br><br>
 
 
-**Software developer** at @ [McFadyen Digital] () _(July 2016 - May 2018)_ <br>
+**Software developer** at [McFadyen Digital](https://mcfadyen.com/) _(July 2016 - May 2018)_ <br>
 • Trained with backend development mainly in core Java and ATG.<br>
 • Front end development using JavaScript, jQuery, HTML, Bootstrap.<br>
 • Worked on ATG, Oracle Cloud Commerce and Core Java. Also have hands on experience
