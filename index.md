@@ -18,7 +18,7 @@ MS Computer Science graduate in Machine learning and data science with three yea
 
 ## 👩🏼‍🎓 Education
 
-**Master of Science in Computer Science ** specializing in track 'Machine learning' and 'Big data and large scale computing' from Aalto University, Finland <br> with 4.63 GPA
+**Honors in MS Computer Science ** specializing in track 'Machine learning' and 'Big data and large scale computing' from Aalto University, Finland <br> with 4.62 GPA
 
 **Bachelor of Technology in Computer Science** from Model Engineering College, India <br> with 8.13/10
 
@@ -36,9 +36,11 @@ programming, and information visualization.
 ## 👩🏼‍💻  ML projects
 
 **Semi-supervised machine learning techniques for infant motility classification (January - September,2021)**
-This academic research funded by BABA project was a collaboration with Helsinki University and was the focus of my MS thesis. Semi-supervised machine learning techniques, such as, CPC was used to learn an ML model that classifies the infant movement.
+• This novel academic research funded by BABA project was a collaboration with Helsinki University and was the focus of my MS thesis. 
+• The thesis predominantly applied unsupervised algorithms such as autoencoder(AE) and contrastive predictive coding (CPC) for representation learning and further used supervised learning algorithm on the learned representation to perform infant motility classification.
+• The optimal semi-supervised model identified by fine-tuning the hyper-parameters based on the unweighted average F1-Score (UWAF) metric improved classification in comparison to end-to-end supervised models, especially for lower amounts of available annotated data. 
+• Supervised by Dr. Manu Airaksinen, and Prof. Sampsa Vanhatalo, Helsinki University, Finland.
 • Role: Technical ML developer 
-• 
 • **_Technology used:_** TensorFlow 2.2, Python, MATLAB, Git.
 
 **MIMO channel estimation using Deep Image Prior (DIP) model (June– August, 2020)**
