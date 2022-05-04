@@ -67,10 +67,9 @@ Audio, video and text content filtering were implemented.<br>
 ## 👩🏼‍💻 Technical Experience
 
 **Software Engineer** [F-Secure](https://www.f-secure.com/en) _(Oct 2018 - Jun 2019)_ <br><br>
-Full stack software engineer in the core IAM team responsible for front end and back end development with added responsibility of testing, deployment and support. <br>
   
-• Full stack developer position- end to end development, testing, deployment and support activities.<br>
-• Member of the core Authentication and Authorization team that performed Identity and access management (IAM).<br>
+• Full stack developer of the core Authentication and Authorization team that performed Identity and access management (IAM).<br>
+• Responsibility - end to end development, testing, deployment and support activities.<br>
 • Was the UX champion of the team and took part in design meetings and feasibility study.<br>
 • Close experience with handling confidential user data as per GDPR norms.<br>
 • **_Technology used:_** AWS, Java, JS, jQuery, Git, Jenkins.<br>
