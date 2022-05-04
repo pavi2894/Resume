@@ -11,7 +11,7 @@
 MS Computer Science graduate in Machine learning and data science with three years of Software engineering experience. <br>
 
 [Email](mailto:vijayakrishnanpavithra@gmail.com) / [LinkedIn](https://www.linkedin.com/in/pavithra-vijayakrishnan-a0050718a/) / [GitHub](https://github.com/pavi2894/) 
-[Phone] (US country code) + '6503' + '051' + '576'
+
 
 
 
