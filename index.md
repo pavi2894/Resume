@@ -87,6 +87,9 @@ including POC and support projects.<br>
 Atlassian (JIRA, confluence), git and bitbucket.<br><br><br>
 
 
+## Certifications
+
+<!-- [Python](https://app.testdome.com/cert/733e34fca6f5451cbc91abcb3b8221d5) -->
 
 
 
